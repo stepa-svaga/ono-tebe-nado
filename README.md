@@ -1,1 +1,1 @@
-https://github.com/Maksim-driller/ono-tebe-nado
+https://github.com/stepa-svaga/ono-tebe-nado
